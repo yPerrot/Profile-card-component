@@ -31,7 +31,7 @@ body {
     font-family: var(--font-family);
     font-weight: var(--font-normal);
 
-    background: no-repeat url("/images/bg-pattern-bottom.svg");
+    background: no-repeat url("./images/bg-pattern-bottom.svg");
     /* background: left 10% / 15% 60% repeat-x url("/images/bg-pattern-bottom.svg"); */
     background-color: var(--primary-dark-cyan);
     /* background-image: url("/images/bg-pattern-bottom.svg"), url("/images/bg-pattern-top.svg"); */
